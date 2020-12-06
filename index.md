@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Directory
 
-You can use the [editor on GitHub](https://github.com/HarmonicLanguage/HarmonicLanguage.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+((These links are not yet live))
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
++ [Docs](docs.harmoniclanguage.io)
++ [Forum](forum.harmoniclanguage.io)
++ [Git](https://github.com/HarmonicLanguage/HarmonicLanguage.github.io)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## What
+The "Harmanic" músicalinguistica framework is an open standard for transcoding biometric, economic, and ecological data as musical stems to be used in music, with a particular focus around live performance and the tooling necessary to easily share the source of the data that is currently augmenting the musical experience - i.e. an audible QR code that can open a link on your phone to information about the data which is being rendered as music.
 
-```markdown
-Syntax highlighted code block
+## Goals
 
-# Header 1
-## Header 2
-### Header 3
+The "Harmonic" musical language exists because we recognize that the entirety of life on this planet has wave nature from the movements of currency and markets, our energetic acts of service, and energetic modes of reception. The creation and deprecation of culture - around food, sleep, love, and music. Even the shape of continuous educational processes of training new young minds on the shape of this exponentially complex world.  All waves.
 
-- Bulleted
-- List
+Sometimes we use antiques like fiat currency to track these waves (unsuccessfully). At small scale we (successfully) use spoken language and unspoken language (like movement or dance) with our peers and with our communities to communicate the content of our landscape and our objectives.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HarmonicLanguage/HarmonicLanguage.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+We as humans live either harmoniously or cacophonously with the energetic ebs and flows of our human society, and of our own individual facilities.  We recognize the intrinsic intuition we are blessed with when we simply have access to the data, like a flashlight in the dark providing you information about the tables and the chairs in the landscape of your house at night so that you do not crash and fall. 
